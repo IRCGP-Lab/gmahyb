@@ -1,6 +1,6 @@
-# GenoMycAnalyzer-Hyb (GMAHYB)
+# GenoMycAnalyzer-HybSeq (gmahyb)
 
-**GenoMycAnalyzer-Hyb (GMAHYB) CLI** is a comprehensive, automated bioinformatics pipeline designed for Targeted NGS analysis of *Mycobacterium tuberculosis* (MTB) and nontuberculosis *Mycobacterium* (NTM).
+**GenoMycAnalyzer-HybSeq (gmahyb) CLI** is a comprehensive, automated bioinformatics pipeline designed for Targeted NGS analysis of *Mycobacterium tuberculosis* (MTB) and nontuberculosis *Mycobacterium* (NTM).
 
 It streamlines the entire process from raw data quality control to detailed clinical reporting, integrating multiple state-of-the-art tools and custom algorithms.
 
