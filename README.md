@@ -19,7 +19,7 @@ It streamlines the entire process from raw data quality control to detailed clin
 
 ### 1. Installation
 
-To install GMAHYB via Conda:
+To install gmahyb via Conda:
 
 ```bash
 conda create -n gmahyb -c shyun -c conda-forge -c bioconda gmahyb
