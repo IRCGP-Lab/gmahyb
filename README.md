@@ -50,7 +50,7 @@ gmahyb \
 ```bash
 
 📚 Documentation
-📖 User Manual : https://github.com/IRCGP-Lab/gmahyb/wiki : **Go here for the Full Documentation.**
+📖 User Manual : [https://github.com/IRCGP-Lab/gmahyb/wiki : **Go here for the Full Documentation.**](https://github.com/IRCGP-Lab/gmahyb/wiki : **Go here for the Full Documentation.**)
 
 📝 Citation
 
